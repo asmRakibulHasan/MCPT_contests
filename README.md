@@ -1,4 +1,4 @@
-# MCPT_contests
+# MIST Contest Programming TSC_contests
 
 | Contest Link                      | Pass          | video                                                        |
 | --------------------------------- | ------------- | ------------------------------------------------------------ |
